@@ -26,6 +26,4 @@ npm run server
 
 ```
 npm run build
-npm i -g serve
-serve -s build -p 8000
 ```
